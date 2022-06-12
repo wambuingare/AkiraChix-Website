@@ -1,0 +1,97 @@
+*,html {
+    padding: 0 ;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    display:flex;
+}
+
+
+
+/* nav  */
+
+
+nav{
+    height:100vh;
+    width: 20%;
+    display: flex;
+    padding-top: 40px;
+    position: fixed;
+   
+
+    flex-direction: column;
+    
+    
+}
+
+.logo{
+    width: 70%;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    margin-left: 30% ;
+    display:flex;
+    flex-direction:column;
+    justify-items: center;
+    padding: 0 20px;
+}
+
+nav ul li{
+    list-style: none;
+    margin-bottom: 10px;
+    font-size: 9px;
+}
+
+
+
+/* section   */
+
+.content{
+    width:80%;
+    height: 200vh;
+   
+    display:flex;
+    justify-content: center;
+    margin-left: auto;
+
+
+}
+iframe{
+    border: none;
+    outline: none;
+}
+
+.a, h1, h2, h3, h4, h5, p {
+transition: all;
+}
+p{
+    margin-top: 0%;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    display: block;
+}
+
+.donation{
+    margin: auto;
+    width: 80%;
+}
+
+
+    
+    
+    
+  
+ 
+
+
+
+
+
+
+
+

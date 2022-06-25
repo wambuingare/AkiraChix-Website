@@ -66,20 +66,6 @@ iframe{
     outline: none;
 }
 
-.a, h1, h2, h3, h4, h5, p {
-transition: all;
-}
-p{
-    margin-top: 0%;
-    margin-bottom: 1rem;
-    box-sizing: border-box;
-    display: block;
-}
-
-.donation{
-    margin: auto;
-    width: 80%;
-}
 
 
     
